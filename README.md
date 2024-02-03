@@ -1,4 +1,4 @@
-# Monokai Themes for the Zed Editor
+# Monokai Themes for the Zed Code Editor
 
 This repo contains 3 Monokai themes for the wonderful [Zed](https://zed.dev) Code Editor.
 
