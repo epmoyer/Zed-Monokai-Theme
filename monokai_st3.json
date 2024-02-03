@@ -173,6 +173,11 @@
                         "font_style": null,
                         "font_weight": null
                     },
+                    "tag": {
+                        "color": "#F92672",
+                        "font_style": null,
+                        "font_weight": null
+                    },
                     "number": {
                         "color": "#AE81FF",
                         "font_style": null,
