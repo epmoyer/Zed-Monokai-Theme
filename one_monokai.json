@@ -1,10 +1,10 @@
 {
     "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
-    "name": "EPM Themes2",
-    "author": "Eric Moyer",
+    "name": "One Monokai",
+    "author": "Joshua Azemoh (azemoh), converted by Eric Moyer (epmoyer)",
     "themes": [
         {
-            "name": "Monokai_EPM2",
+            "name": "One Monokai",
             "appearance": "dark",
             "style": {
                 "border": null,
