@@ -10,8 +10,21 @@ This repo contains 3 Monokai themes for the wonderful [Zed](https://zed.dev) Cod
 
 ## The Themes
 ### Monokai
+This is my best attempt at reproducing a classic Monokai theme within the current limitations of Zed's syntax highlighter. It is _strongly_ based on Monokai-ST3 (below), with only minor tweaks.
+
+Today (2024-02-03) there are several cases in which different code elements which would traditionally have different colors in Monokai share the same syntax selector in Zed, so it is not (currently) possible to style (color) them differently.
+
+One example is function name definitions (traditionally green) vs. function name calls (traditionally blue).  Another is code variables (traditionally white) vs function arguments (traditionally orange).
+
+As Zed's syntax highlighting capabilities grow I will try to align this theme more closely with traditional Monokai.
 
 ![](img/screenshot_monokai.png)
+
+### Comparison
+
+Here is a comparison of my Zed `Monokai` theme (left) vs. traditional Monokai in VSCode (right).
+
+![](img/zed_vscode_comparison.png)
 
 ### Monokai-ST3
 This is a direct conversion of [Monokai-ST3-theme-for-vscode
@@ -23,6 +36,3 @@ This is a direct conversion of [Monokai-ST3-theme-for-vscode
 This is a direct conversion of [One Monokai](https://github.com/azemoh/vscode-one-monokai/tree/master) VSCode Theme, performed using the Zed team's `theme_importer` tool.
 
 ![](img/screenshot_one_monokai.png)
-## Limitations
-
-
