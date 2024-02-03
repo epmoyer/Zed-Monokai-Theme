@@ -1,10 +1,10 @@
 {
     "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
-    "name": "One Monokai",
-    "author": "Andrey Volosovich (volosovich), converted by Eric Moyer (epmoyer)",
+    "name": "Monokai",
+    "author": "Eric Moyer (epmoyer)",
     "themes": [
         {
-            "name": "Monokai-ST3",
+            "name": "Monokai",
             "appearance": "dark",
             "style": {
                 "border": "#414339",
@@ -15,7 +15,7 @@
                 "border.disabled": "#414339",
                 "elevated_surface.background": "#414339",
                 "surface.background": null,
-                "background": "#272822",
+                "background": "#1D1D1A",
                 "element.background": "#75715E",
                 "element.hover": "#272822",
                 "element.active": null,
@@ -164,7 +164,7 @@
                         "font_weight": null
                     },
                     "function": {
-                        "color": "#A6E22E",
+                        "color": "#66d9ef",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -215,6 +215,11 @@
                     },
                     "variable.special": {
                         "color": "#FD971F",
+                        "font_style": "italic",
+                        "font_weight": null
+                    },
+                    "type": {
+                        "color": "#a6e22e",
                         "font_style": "italic",
                         "font_weight": null
                     }

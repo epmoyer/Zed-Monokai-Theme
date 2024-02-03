@@ -217,6 +217,11 @@
                         "color": "#FD971F",
                         "font_style": "italic",
                         "font_weight": null
+                    },
+                    "type": {
+                        "color": "#a6e22e",
+                        "font_style": "italic",
+                        "font_weight": null
                     }
                 }
             }
