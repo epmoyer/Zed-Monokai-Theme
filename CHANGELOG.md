@@ -15,7 +15,7 @@ to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
     - Darker background.
     - Gutter Slightly lighter than background.
     - Improve search match background (lighter, grayer).
-    - Improve active line background.
+    - Improve editor.active_line.background and make it semi-transparent.
     - Adopt the same `players` styles as `Atelier Cave Dark`.
         - It turns out that these styles drive the cursor and selection color for multiple users. The default single-user selection colors wasn't great for `Monokai` (it was too dark).  I don't know how to test all the multi-user colors well, but they look good in principle and `Monokai` is similar enough to `Atelier Cave Dark` that they should play well here.
 
