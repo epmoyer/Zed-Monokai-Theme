@@ -9,6 +9,10 @@ to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 ## Unreleased
 (None)
 
+## 1.3.1 2024-12-01
+### Fixed 
+- Minor README correction.
+
 ## 1.3.0 2024-12-01
 ### Added
 - Add `Monokai Solarized`
