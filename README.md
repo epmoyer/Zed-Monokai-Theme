@@ -36,3 +36,12 @@ This is a direct conversion of [Monokai-ST3-theme-for-vscode
 This is a direct conversion of [One Monokai](https://github.com/azemoh/vscode-one-monokai/tree/master) VSCode Theme, performed using the Zed team's `theme_importer` tool.
 
 ![](img/screenshot_one_monokai.png)
+
+### Monokai Solarized
+But why, sir... WHY???
+
+Today I run both Zed and VSCode, and I need to be able to tell them apart easily, but my brain is trained on Monokai so I wanted a theme which was "still monokai" but was also *instantly* recognizable as being "a different editor".
+
+This theme is just a shameless merge of the "Monokai" syntax highlighting above with the core "Solarized" theme's background so that I can tell the two apart.
+
+![](img/screenshot_monokiai_solarized.png)
