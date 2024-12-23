@@ -4,7 +4,7 @@
     "author": "Eric Moyer (epmoyer)",
     "themes": [
         {
-            "name": "Monokai Oxide XX",
+            "name": "Monokai Oxide X1",
             "appearance": "dark",
             "style": {
                 "border": "#5b6385ff",
@@ -54,8 +54,8 @@
                 "scrollbar.track.background": "#00000000",
                 "scrollbar.track.border": "#252c4fff",
                 "editor.foreground": "#dfe2f1ff",
-                "editor.background": "#202646ff",
-                "editor.gutter.background": "#202646ff",
+                "editor.background": "#000000ff",
+                "editor.gutter.background": "#202020ff",
                 "editor.subheader.background": "#262f51ff",
                 "editor.active_line.background": "#262f51bf",
                 "editor.highlighted_line.background": "#262f51ff",
