@@ -28,7 +28,7 @@
                 "ghost_element.selected": "#4d6876ff",
                 "ghost_element.disabled": "#1c2529ff",
                 "text": "#ebf8ffff",
-                "text.muted": "#7c9fb3ff",
+                "text.muted": "#AABCCAff",
                 "text.placeholder": "#688c9dff",
                 "text.disabled": "#688c9dff",
                 "text.accent": "#267eadff",
