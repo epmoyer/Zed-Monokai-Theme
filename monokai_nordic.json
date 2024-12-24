@@ -210,6 +210,11 @@
                         "font_style": null,
                         "font_weight": null
                     },
+                    "function.special.definition": {
+                        "color": "#FD971F",
+                        "font_style": null,
+                        "font_weight": null
+                    },
                     "keyword": {
                         "color": "#F92672",
                         "font_style": null,
@@ -261,6 +266,11 @@
                         "font_weight": null
                     },
                     "variable.special": {
+                        "color": "#FD971F",
+                        "font_style": "italic",
+                        "font_weight": null
+                    },
+                    "variant": {
                         "color": "#FD971F",
                         "font_style": "italic",
                         "font_weight": null
