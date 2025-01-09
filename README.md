@@ -3,7 +3,7 @@
 This repo contains 4 Monokai themes for the wonderful [Zed](https://zed.dev) Code Editor.
 
 ## Installing
-- Copy the `.json` files from this repo into `~.config/zed/themes`.
+- Copy the `.json` files from this repo into `~/.config/zed/themes`.
 - Run [Zed Preview](https://zed.dev/releases/preview)
     - As of this writing (2024-02-03) only "Zed Preview" supports "[User Themes](https://zed.dev/blog/user-themes-now-in-preview)".  No doubt they support for User Themes will make it into the regular Zed build soon.
 - Select your theme (Settings -> Select Theme).
